@@ -32,16 +32,19 @@ This system detects faces in real time, matches them with stored student images,
 ## 🔹 Project Structure
 
 Face-Recognition-Attendance-System/
-│
-├── dataset/ # Student images folder
-├── trainer.py # Capture student face images
-├── recognizer.py # Face recognition + attendance
-├── attendance.csv # Attendance record file
-├── README.md # Project documentation
-└── LICENSE # License file
 
-yaml
-Copy code
+├── dataset/
+
+├── trainer.py
+
+├── recognizer.py
+
+├── attendance.csv
+
+├── README.md
+
+└── LICENSE
+
 
 ---
 
